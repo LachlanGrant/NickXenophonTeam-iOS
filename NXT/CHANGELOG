@@ -1,0 +1,10 @@
+# Version 1.0
+
+## Build 95
+* Fixed Missing iPad Support
+* iPad Splitscreen Support
+* Report an issue from settings
+* Icon for Volunteer
+* Added Settings
+* Removed Donate as per Apple Guidelines (11.2) https://developer.apple.com/app-store/review/guidelines/#purchasing-currencies
+* Debugging tools
