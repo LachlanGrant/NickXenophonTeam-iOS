@@ -130,8 +130,8 @@ class LocationsTableViewController: UIViewController, UITableViewDataSource, UIT
     }
     
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        let dest = segue.destinationViewController as! LocationDetailViewController
-        dest.location = 
+        //let dest = segue.destinationViewController as! LocationDetailViewController
+        //dest.location =
         
     }
     

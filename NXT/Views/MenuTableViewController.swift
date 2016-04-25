@@ -47,8 +47,6 @@ class MenuTableViewController: UITableViewController {
             return "policies"
         case 7:
             return "volunteer"
-        case 8:
-            return "settings"
         default:
             return "error"
         }
